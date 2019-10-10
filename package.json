@@ -1,6 +1,6 @@
 {
   "name": "@ioa/config",
-  "version": "9.4.0",
+  "version": "9.5.0",
   "description": "ioa框架config组件",
   "main": "index.js",
   "directories": {
