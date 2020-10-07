@@ -1,6 +1,6 @@
 {
   "name": "@ioa/config",
-  "version": "9.5.0",
+  "version": "9.6.2",
   "description": "ioa框架config组件",
   "main": "index.js",
   "directories": {
@@ -11,8 +11,6 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "ttools": "^3.1.0"
-  },
+  "dependencies": {},
   "devDependencies": {}
 }
